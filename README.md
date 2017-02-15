@@ -10,8 +10,7 @@
 ![2017-02-15_8.png](https://bitbucket.org/repo/My6bz7/images/744013583-2017-02-15_8.png)
 
 * Aplikasi Manajemen Penjualan
-* Pembelian
-* Penjualan
+* Manajemen Penjualan
 * Laporan Penjualan dan Pembelian
 
 ### Who do I talk to? ###
