@@ -9,9 +9,7 @@
 ![2017-02-15_7.png](https://bitbucket.org/repo/My6bz7/images/626638375-2017-02-15_7.png)
 ![2017-02-15_8.png](https://bitbucket.org/repo/My6bz7/images/744013583-2017-02-15_8.png)
 
-* Aplikasi Manajemen Penjualan
-* Manajemen Penjualan
-* Laporan Penjualan dan Pembelian
+Aplikasi penjualan yang dapat mengatur pembelian dari supplier, penjualan ke konsumen, manajemen stok, laporan penjualan, laporan pembelian, dan laporan stok barang.
 
 ### Who do I talk to? ###
 
