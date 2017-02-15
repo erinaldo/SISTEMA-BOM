@@ -16,4 +16,4 @@
 
 ### Who do I talk to? ###
 
-[rhbp](www.linkedin.com/in/rh-bayu-prabowo)
+[rhbayuprabowo](www.linkedin.com/in/rh-bayu-prabowo)
