@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\BitBucket\program_penjualan\Program Penjualan\Program Penjualan.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\BitBucket\program_penjualan\Program Penjualan\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\BitBucket\program_penjualan\Program Penjualan\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\BitBucket\program_penjualan\Program Penjualan\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\BitBucket\program_penjualan\Program Penjualan\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\BitBucket\program_penjualan\Program Penjualan\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\BitBucket\program_penjualan\Program Penjualan\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="C:\BitBucket\program_penjualan\Program Penjualan\app.config" />
+  <event action="Analyze" type="Success" name="FormCetakDetailHutangCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakDetailHutangCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormCetakKatalog.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakKatalog.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLabel.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLabel.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanBarangMasukBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanBarangMasukBulanan.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanBarangMasukSupplier.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanBarangMasukSupplier.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanBarangMasukTahunan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanBarangMasukTahunan.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanBestSeller.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanBestSeller.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanBestSellerDetail.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanBestSellerDetail.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanHutangCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanHutangCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanMostProfit.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanMostProfit.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanPenjualanBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanPenjualanBulanan.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanPenjualanCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanPenjualanCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanPenjualanProduk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanPenjualanProduk.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanPenjualanSales.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanPenjualanSales.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanPenjualanTahunan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanPenjualanTahunan.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanProfit.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanProfit.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanTransaksiBarangMasuk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanTransaksiBarangMasuk.resx" />
+  <event action="Analyze" type="Success" name="FormCetakLaporanTransaksiPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakLaporanTransaksiPenjualan.resx" />
+  <event action="Analyze" type="Success" name="FormCetakListDataCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakListDataCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormCetakListDataProduk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakListDataProduk.resx" />
+  <event action="Analyze" type="Success" name="FormCetakListDataSupplier.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakListDataSupplier.resx" />
+  <event action="Analyze" type="Success" name="FormCetakNotaBarangMasuk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakNotaBarangMasuk.resx" />
+  <event action="Analyze" type="Success" name="FormCetakNotaChecking.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakNotaChecking.resx" />
+  <event action="Analyze" type="Success" name="FormCetakNotaOrder.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakNotaOrder.resx" />
+  <event action="Analyze" type="Success" name="FormCetakNotaOrderSimple.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakNotaOrderSimple.resx" />
+  <event action="Analyze" type="Success" name="FormCetakNotaPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakNotaPenjualan.resx" />
+  <event action="Analyze" type="Success" name="FormCetakNotaPenjualanSmall.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakNotaPenjualanSmall.resx" />
+  <event action="Analyze" type="Success" name="FormCetakNotaRetur.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakNotaRetur.resx" />
+  <event action="Analyze" type="Success" name="FormCetakNotaReturPDF.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakNotaReturPDF.resx" />
+  <event action="Analyze" type="Success" name="FormCetakProfitBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakProfitBulanan.resx" />
+  <event action="Analyze" type="Success" name="FormCetakProfitCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakProfitCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormCetakProfitProduk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakProfitProduk.resx" />
+  <event action="Analyze" type="Success" name="FormCetakProfitSales.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakProfitSales.resx" />
+  <event action="Analyze" type="Success" name="FormCetakProfitTahunan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Cetak\FormCetakProfitTahunan.resx" />
+  <event action="Analyze" type="Success" name="FormDialogCariBarangBrgMasuk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormDialogCariBarangBrgMasuk.resx" />
+  <event action="Analyze" type="Success" name="FormDialogCariBarangPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormDialogCariBarangPenjualan.resx" />
+  <event action="Analyze" type="Success" name="FormDialogLogin.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormDialogLogin.resx" />
+  <event action="Analyze" type="Success" name="FormDialogPassword.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormDialogPassword.resx" />
+  <event action="Analyze" type="Success" name="FormDialogPeringatanPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormDialogPeringatanPenjualan.resx" />
+  <event action="Analyze" type="Success" name="FormDialogSeleksiDetailTransaksi.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormDialogSeleksiDetailTransaksi.resx" />
+  <event action="Analyze" type="Success" name="FormFilterBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormFilterBulanan.resx" />
+  <event action="Analyze" type="Success" name="FormFilterPeriode.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormFilterPeriode.resx" />
+  <event action="Analyze" type="Success" name="FormGantiAdmin.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormGantiAdmin.resx" />
+  <event action="Analyze" type="Success" name="FormInputIDManual.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormInputIDManual.resx" />
+  <event action="Analyze" type="Success" name="FormModePenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Dialog\FormModePenjualan.resx" />
+  <event action="Analyze" type="Success" name="UC_BarangMasuk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\User Control\UC_BarangMasuk.resx" />
+  <event action="Analyze" type="Success" name="UC_Penjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\User Control\UC_Penjualan.resx" />
+  <event action="Analyze" type="Success" name="UserControl1.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\User Control\UserControl1.resx" />
+  <event action="Analyze" type="Success" name="FormBestSeller.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormBestSeller.resx" />
+  <event action="Analyze" type="Success" name="FormDetailCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormDetailCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormDetailHarian.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormDetailHarian.resx" />
+  <event action="Analyze" type="Success" name="FormDetailsBestSeller.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormDetailsBestSeller.resx" />
+  <event action="Analyze" type="Success" name="FormDetailSupplier.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormDetailSupplier.resx" />
+  <event action="Analyze" type="Success" name="FormLaporanDetailHutangCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormLaporanDetailHutangCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormLaporanHutangCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormLaporanHutangCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormLaporanProfit.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormLaporanProfit.resx" />
+  <event action="Analyze" type="Success" name="FormLapTransaksiBarangMasuk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormLapTransaksiBarangMasuk.resx" />
+  <event action="Analyze" type="Success" name="FormLapTransaksiPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormLapTransaksiPenjualan.resx" />
+  <event action="Analyze" type="Success" name="FormLihatCetakLabel.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormLihatCetakLabel.resx" />
+  <event action="Analyze" type="Success" name="FormListDataBarang.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormListDataBarang.resx" />
+  <event action="Analyze" type="Success" name="FormListDataCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormListDataCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormListDataSupplier.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormListDataSupplier.resx" />
+  <event action="Analyze" type="Success" name="FormLogAktivitas.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormLogAktivitas.resx" />
+  <event action="Analyze" type="Success" name="FormMain.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormMain.resx" />
+  <event action="Analyze" type="Success" name="FormReturPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormReturPenjualan.resx" />
+  <event action="Analyze" type="Success" name="FormSetting.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormSetting.resx" />
+  <event action="Analyze" type="Success" name="FormTambahCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormTambahCustomer.resx" />
+  <event action="Analyze" type="Success" name="FormTambahSupplier.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Form\Utama\FormTambahSupplier.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\BitBucket\program_penjualan\Program Penjualan\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\BitBucket\program_penjualan\Program Penjualan\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\BitBucket\program_penjualan\Program Penjualan\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\BitBucket\program_penjualan\Program Penjualan\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\BitBucket\program_penjualan\Program Penjualan\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\BitBucket\program_penjualan\Program Penjualan\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\BitBucket\program_penjualan\Program Penjualan\packages.config" />
+  <event action="Analyze" type="Success" name="ReportDetailHutangCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportDetailHutangCustomer.resx" />
+  <event action="Analyze" type="Success" name="ReportKatalog.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportKatalog.resx" />
+  <event action="Analyze" type="Success" name="ReportLabel.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLabel.resx" />
+  <event action="Analyze" type="Success" name="ReportLaporanBestSeller.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanBestSeller.resx" />
+  <event action="Analyze" type="Success" name="ReportLaporanBestSellerTipeBarang.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanBestSellerTipeBarang.resx" />
+  <event action="Analyze" type="Success" name="ReportLaporanHutangCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanHutangCustomer.resx" />
+  <event action="Analyze" type="Success" name="ReportLaporanMostProfit.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanMostProfit.resx" />
+  <event action="Analyze" type="Success" name="ReportLaporanProfit.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanProfit.resx" />
+  <event action="Analyze" type="Success" name="ReportListDataCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportListDataCustomer.resx" />
+  <event action="Analyze" type="Success" name="ReportListDataProduk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportListDataProduk.resx" />
+  <event action="Analyze" type="Success" name="ReportListDataSupplier.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportListDataSupplier.resx" />
+  <event action="Analyze" type="Success" name="ReportNotaChecking.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaChecking.resx" />
+  <event action="Analyze" type="Success" name="ReportNotaMasuk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaMasuk.resx" />
+  <event action="Analyze" type="Success" name="ReportNotaOrderBarang.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaOrderBarang.resx" />
+  <event action="Analyze" type="Success" name="ReportNotaOrderSimple.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaOrderSimple.resx" />
+  <event action="Analyze" type="Success" name="ReportNotaPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaPenjualan.resx" />
+  <event action="Analyze" type="Success" name="ReportNotaPenjualanSmall.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaPenjualanSmall.resx" />
+  <event action="Analyze" type="Success" name="ReportNotaRetur.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaRetur.resx" />
+  <event action="Analyze" type="Success" name="ReportNotaReturToPDF.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaReturToPDF.resx" />
+  <event action="Analyze" type="Success" name="ReportProfitBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitBulanan.resx" />
+  <event action="Analyze" type="Success" name="ReportProfitCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitCustomer.resx" />
+  <event action="Analyze" type="Success" name="ReportProfitProduk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitProduk.resx" />
+  <event action="Analyze" type="Success" name="ReportProfitSales.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitSales.resx" />
+  <event action="Analyze" type="Success" name="ReportProfitTahunan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitTahunan.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiBarangMasuk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiBarangMasuk.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiBarangMasukBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiBarangMasukBulanan.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiBarangMasukSupplier.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiBarangMasukSupplier.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiBarangMasukTahunan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiBarangMasukTahunan.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiDetailPenjualanAndOrder.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiDetailPenjualanAndOrder.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualan.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiPenjualanBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanBulanan.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiPenjualanByCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanByCustomer.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiPenjualanByProduk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanByProduk.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiPenjualanSales.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanSales.resx" />
+  <event action="Analyze" type="Success" name="ReportTransaksiPenjualanTahunan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanTahunan.resx" />
+  <event action="Analyze" type="Success" name="SplashScreen1.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\SplashScreen1.resx" />
+  <event action="Analyze" type="Success" name="Program Penjualan" path="C:\BitBucket\program_penjualan\Program Penjualan\Program Penjualan.vbproj" />
+  <event action="Analyze" type="Success" name="Program Penjualan" path="C:\BitBucket\program_penjualan\Program Penjualan.sln" />
+  <event action="Backup" type="Success" name="Program Penjualan" path="C:\BitBucket\program_penjualan\Program Penjualan\Program Penjualan.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\BitBucket\program_penjualan\Program Penjualan\Program Penjualan.vbproj" />
+  <event action="Upgrade" type="Success" name="ReportDetailHutangCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportDetailHutangCustomer.resx" />
+  <event action="Upgrade" type="Success" name="ReportLabel.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLabel.resx" />
+  <event action="Upgrade" type="Success" name="ReportLaporanBestSeller.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanBestSeller.resx" />
+  <event action="Upgrade" type="Success" name="ReportLaporanBestSellerTipeBarang.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanBestSellerTipeBarang.resx" />
+  <event action="Upgrade" type="Success" name="ReportLaporanHutangCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanHutangCustomer.resx" />
+  <event action="Upgrade" type="Success" name="ReportLaporanMostProfit.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanMostProfit.resx" />
+  <event action="Upgrade" type="Success" name="ReportLaporanProfit.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLaporanProfit.resx" />
+  <event action="Upgrade" type="Success" name="ReportListDataCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportListDataCustomer.resx" />
+  <event action="Upgrade" type="Success" name="ReportListDataProduk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportListDataProduk.resx" />
+  <event action="Upgrade" type="Success" name="ReportListDataSupplier.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportListDataSupplier.resx" />
+  <event action="Upgrade" type="Success" name="ReportNotaChecking.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaChecking.resx" />
+  <event action="Upgrade" type="Success" name="ReportNotaMasuk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaMasuk.resx" />
+  <event action="Upgrade" type="Success" name="ReportNotaOrderBarang.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaOrderBarang.resx" />
+  <event action="Upgrade" type="Success" name="ReportNotaOrderSimple.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaOrderSimple.resx" />
+  <event action="Upgrade" type="Success" name="ReportNotaPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaPenjualan.resx" />
+  <event action="Upgrade" type="Success" name="ReportNotaPenjualanSmall.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaPenjualanSmall.resx" />
+  <event action="Upgrade" type="Success" name="ReportNotaRetur.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaRetur.resx" />
+  <event action="Upgrade" type="Success" name="ReportNotaReturToPDF.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportNotaReturToPDF.resx" />
+  <event action="Upgrade" type="Success" name="ReportProfitBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitBulanan.resx" />
+  <event action="Upgrade" type="Success" name="ReportProfitCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitCustomer.resx" />
+  <event action="Upgrade" type="Success" name="ReportProfitProduk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitProduk.resx" />
+  <event action="Upgrade" type="Success" name="ReportProfitSales.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitSales.resx" />
+  <event action="Upgrade" type="Success" name="ReportProfitTahunan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportProfitTahunan.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiBarangMasuk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiBarangMasuk.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiBarangMasukBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiBarangMasukBulanan.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiBarangMasukSupplier.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiBarangMasukSupplier.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiBarangMasukTahunan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiBarangMasukTahunan.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiDetailPenjualanAndOrder.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiDetailPenjualanAndOrder.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiPenjualan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualan.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiPenjualanBulanan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanBulanan.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiPenjualanByCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanByCustomer.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiPenjualanByProduk.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanByProduk.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiPenjualanSales.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanSales.resx" />
+  <event action="Upgrade" type="Success" name="ReportTransaksiPenjualanTahunan.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportTransaksiPenjualanTahunan.resx" />
+  <event action="Upgrade" type="Success" name="Program Penjualan" path="C:\BitBucket\program_penjualan\Program Penjualan\Program Penjualan.vbproj" />
+  <event action="Upgrade" type="Success" name="Program Penjualan" path="C:\BitBucket\program_penjualan\Program Penjualan.sln" />
+</log>
