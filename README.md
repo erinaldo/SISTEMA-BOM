@@ -9,7 +9,7 @@
 ![2017-02-15_7.png](https://bitbucket.org/repo/My6bz7/images/626638375-2017-02-15_7.png)
 ![2017-02-15_8.png](https://bitbucket.org/repo/My6bz7/images/744013583-2017-02-15_8.png)
 
-Aplikasi penjualan yang dapat mengatur pembelian dari supplier, penjualan ke konsumen, manajemen stok, laporan penjualan, laporan pembelian, dan laporan stok barang.
+Aplikasi Penjualan merupakan aplikasi penjualan toko yang memiliki fungsi untuk mengatur dan mencatat setiap transaksi pembelian stok barang dari supplier, mengatur dan mencatat setiap transaksi penjualan stok barang ke konsumen, dan dapat mencetak setiap laporan traksaksi baik pembelian maupun penjualan yang tercatat.
 
 ### Who do I talk to? ###
 
