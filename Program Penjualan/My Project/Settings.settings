@@ -25,5 +25,8 @@
     <Setting Name="FolderNota" Roaming="true" Type="System.String" Scope="User">
       <Value Profile="(Default)">Nota Retur</Value>
     </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> </Value>
+    </Setting>
   </Settings>
 </SettingsFile>

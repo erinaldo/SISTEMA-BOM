@@ -123,7 +123,6 @@
   <event action="Analyze" type="Success" name="SplashScreen1.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\SplashScreen1.resx" />
   <event action="Analyze" type="Success" name="Program Penjualan" path="C:\BitBucket\program_penjualan\Program Penjualan\Program Penjualan.vbproj" />
   <event action="Analyze" type="Success" name="Program Penjualan" path="C:\BitBucket\program_penjualan\Program Penjualan.sln" />
-  <event action="Backup" type="Success" name="Program Penjualan" path="C:\BitBucket\program_penjualan\Program Penjualan\Program Penjualan.vbproj" />
   <event action="Upgrade" type="Success" name="Assembly References" path="C:\BitBucket\program_penjualan\Program Penjualan\Program Penjualan.vbproj" />
   <event action="Upgrade" type="Success" name="ReportDetailHutangCustomer.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportDetailHutangCustomer.resx" />
   <event action="Upgrade" type="Success" name="ReportLabel.resx" path="C:\BitBucket\program_penjualan\Program Penjualan\Report\ReportLabel.resx" />
