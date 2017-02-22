@@ -14,6 +14,30 @@ Aplikasi Penjualan merupakan aplikasi penjualan toko yang memiliki fungsi untuk 
 ![2017-02-15_8.png](https://bitbucket.org/repo/My6bz7/images/744013583-2017-02-15_8.png)
 
 
+## How do I get set up ##
+* Mysql menggunakan [Wamp](www.wampserver.com/en)
+* Import Database toko.sql
+* Ubah password untuk root menjadi 123456
+* Latest Visual Studio 2015
+* Valid version **Telerik Winform** and **Telerik Report**
+* [MySqlBakcup.NET 2.0.6](https://www.nuget.org/packages/MySqlBackup.NET/2.0.6)
+```
+#!Nuget Console
+
+Install-Package MySqlBackup.NET -Version 2.0.6
+```
+* MySQL for Visual Studio
+* [MySQL Connector/Net 6.9.8](https://downloads.mysql.com/archives/c-net/)
+* MySql.Data 6.9.8 
+```
+#!Nuget Console
+
+Install-Package MySql.Data -Version 6.9.9
+```
+
+ 
+
+ 
 ### Who do I talk to? ###
 
 [rhbayuprabowo](www.linkedin.com/in/rh-bayu-prabowo)
