@@ -40,4 +40,4 @@ Install-Package MySql.Data -Version 6.9.9
  
 ### Who do I talk to? ###
 
-[rhbayuprabowo](www.linkedin.com/in/rh-bayu-prabowo)
+[rhbayuprabowo](https://github.com/rhbayuprabowo)
