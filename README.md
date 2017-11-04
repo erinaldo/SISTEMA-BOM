@@ -2,6 +2,7 @@
 
 Aplikasi Penjualan merupakan aplikasi penjualan toko yang memiliki fungsi untuk mengatur dan mencatat setiap transaksi pembelian stok barang dari supplier, mengatur dan mencatat setiap transaksi penjualan stok barang ke konsumen, dan dapat mencetak setiap laporan traksaksi baik pembelian maupun penjualan yang tercatat.
 
+
 # Screenshoot #
 
 ![2017-02-15_1.png](https://bitbucket.org/repo/My6bz7/images/2722338018-2017-02-15_1.png)
