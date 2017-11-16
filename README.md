@@ -20,7 +20,7 @@ Aplikasi Penjualan merupakan aplikasi penjualan toko yang memiliki fungsi untuk 
 * Import Database toko.sql
 * Ubah password untuk root menjadi 123456
 * Latest Visual Studio 2015
-* Valid version **Telerik Winform** and **Telerik Report**
+* Valid copy **Telerik Winform** and **Telerik Report**
 * [MySqlBakcup.NET 2.0.6](https://www.nuget.org/packages/MySqlBackup.NET/2.0.6)
 ```
 #!Nuget Console
