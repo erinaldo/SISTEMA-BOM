@@ -42,6 +42,14 @@ Install-Package MySqlBackup.NET -Version 2.0.6
 
  
 
+### Project ini hanya untuk kepentingan belajar semata. ###
+### This project is meant to learning purposes only. ###
+
+
+
+
+
+
  
 ### Who do I talk to? ###
 
