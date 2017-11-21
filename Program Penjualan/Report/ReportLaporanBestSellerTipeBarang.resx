@@ -117,17 +117,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="SqlDataSource1.SelectCommand" xml:space="preserve">
+    <value>SELECT        tabel_barang_keluar.kode_barang, 
+tabel_barang.nama_barang, 
+SUM(tabel_barang_keluar.stok_keluar) AS terjual, 
+SUM(tabel_barang_keluar.laba) AS profit,
+SUM(tabel_barang_keluar.harga_jual * tabel_barang_keluar.stok_keluar) as penjualan,
+tabel_barang.stok_barang as stok
+FROM            tabel_barang_keluar INNER JOIN
+                         tabel_barang ON tabel_barang_keluar.kode_barang = tabel_barang.kode_barang
+WHERE        (tabel_barang.tipe_barang = @tipe) AND (tabel_barang_keluar.tgl BETWEEN @awal AND @akhir) AND (tabel_barang_keluar.isorder = 'N')
+GROUP BY tabel_barang_keluar.kode_barang
+ORDER BY terjual DESC</value>
+  </data>
+  <assembly alias="Telerik.Reporting" name="Telerik.Reporting, Version=11.1.17.614, Culture=neutral, PublicKeyToken=a9d7983dfcc261be" />
+  <data name="$this.SnapGridSize" type="Telerik.Reporting.Drawing.Unit, Telerik.Reporting">
+    <value>0.1cm</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.ShowSnapGrid" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="SqlDataSource1.DefaultValues" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
-        AAEAAAD/////AQAAAAAAAAAMAgAAAFhUZWxlcmlrLlJlcG9ydGluZywgVmVyc2lvbj0xMC4xLjE2LjYx
-        NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1hOWQ3OTgzZGZjYzI2MWJlBQEAAAAyVGVs
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFhUZWxlcmlrLlJlcG9ydGluZywgVmVyc2lvbj0xMS4xLjE3LjYx
+        NCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1hOWQ3OTgzZGZjYzI2MWJlBQEAAAAyVGVs
         ZXJpay5SZXBvcnRpbmcuU3FsRGF0YVNvdXJjZVBhcmFtZXRlckNvbGxlY3Rpb24BAAAAEkNvbGxlY3Rp
         b25gMStpdGVtcwOnAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVGVsZXJpay5SZXBv
-        cnRpbmcuU3FsRGF0YVNvdXJjZVBhcmFtZXRlciwgVGVsZXJpay5SZXBvcnRpbmcsIFZlcnNpb249MTAu
-        MS4xNi42MTUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YTlkNzk4M2RmY2MyNjFiZV1d
+        cnRpbmcuU3FsRGF0YVNvdXJjZVBhcmFtZXRlciwgVGVsZXJpay5SZXBvcnRpbmcsIFZlcnNpb249MTEu
+        MS4xNy42MTQsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YTlkNzk4M2RmY2MyNjFiZV1d
         AgAAAAkDAAAABAMAAACnAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVGVsZXJpay5S
         ZXBvcnRpbmcuU3FsRGF0YVNvdXJjZVBhcmFtZXRlciwgVGVsZXJpay5SZXBvcnRpbmcsIFZlcnNpb249
-        MTAuMS4xNi42MTUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YTlkNzk4M2RmY2MyNjFi
+        MTEuMS4xNy42MTQsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YTlkNzk4M2RmY2MyNjFi
         ZV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAqVGVsZXJpay5SZXBvcnRpbmcuU3FsRGF0YVNv
         dXJjZVBhcmFtZXRlcltdAgAAAAgICQQAAAADAAAAGAAAAAcEAAAAAAEAAAAEAAAABChUZWxlcmlrLlJl
         cG9ydGluZy5TcWxEYXRhU291cmNlUGFyYW1ldGVyAgAAAAkFAAAACQYAAAAJBwAAAAoMCAAAAE5TeXN0
@@ -142,26 +163,5 @@
         d2FsBg8AAAAQMjAxNC0xMS0wMyAwMDowMAoBBwAAAAUAAAAB8P////b///8QAAAABhEAAAAGQGFraGly
         BhIAAAAQMjAxNC0xMS0wMyAyMzo1OQoL
 </value>
-  </data>
-  <assembly alias="Telerik.Reporting" name="Telerik.Reporting, Version=10.1.16.615, Culture=neutral, PublicKeyToken=a9d7983dfcc261be" />
-  <data name="$this.SnapGridSize" type="Telerik.Reporting.Drawing.Unit, Telerik.Reporting">
-    <value>0.1cm</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.ShowSnapGrid" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="SqlDataSource1.SelectCommand" xml:space="preserve">
-    <value>SELECT        tabel_barang_keluar.kode_barang, 
-tabel_barang.nama_barang, 
-SUM(tabel_barang_keluar.stok_keluar) AS terjual, 
-SUM(tabel_barang_keluar.laba) AS profit,
-SUM(tabel_barang_keluar.harga_jual * tabel_barang_keluar.stok_keluar) as penjualan,
-tabel_barang.stok_barang as stok
-FROM            tabel_barang_keluar INNER JOIN
-                         tabel_barang ON tabel_barang_keluar.kode_barang = tabel_barang.kode_barang
-WHERE        (tabel_barang.tipe_barang = @tipe) AND (tabel_barang_keluar.tgl BETWEEN @awal AND @akhir) AND (tabel_barang_keluar.isorder = 'N')
-GROUP BY tabel_barang_keluar.kode_barang
-ORDER BY terjual DESC</value>
   </data>
 </root>

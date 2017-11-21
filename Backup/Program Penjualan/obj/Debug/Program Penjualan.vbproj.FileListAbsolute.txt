@@ -1,0 +1,146 @@
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.exe.config
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.exe.manifest
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.application
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.exe
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.pdb
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\MySql.Data.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\MySqlBackup.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.Reporting.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.GridView.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.UI.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\TelerikCommon.dll
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.xml
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.GridView.xml
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.UI.xml
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.Reporting.pdb
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.Reporting.xml
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\BitBucket\program_penjualan\Program Penjualan\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.vbprojResolveAssemblyReference.cache
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.vbproj.ResolveComReference.cache
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaChecking.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaOrderSimple.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBarangMasukTahunan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanMostProfit.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanTahunan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaPenjualanSmall.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaRetur.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitTahunan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaReturPDF.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogCariBarangBrgMasuk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogCariBarangPenjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogLogin.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogPassword.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogPeringatanPenjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormBestSeller.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBarangMasukBulanan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBarangMasukSupplier.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBestSeller.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBestSellerDetail.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanHutangCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanBulanan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanProduk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanSales.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanProfit.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanTransaksiBarangMasuk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanTransaksiPenjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakListDataCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakListDataProduk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakListDataSupplier.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaOrder.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaPenjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitBulanan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitProduk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitSales.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDetailCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDetailHarian.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakDetailHutangCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDetailsBestSeller.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDetailSupplier.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogSeleksiDetailTransaksi.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormFilterBulanan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormFilterPeriode.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormGantiAdmin.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakKatalog.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLabel.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormInputIDManual.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLaporanDetailHutangCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLaporanHutangCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLaporanProfit.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLapTransaksiPenjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLapTransaksiBarangMasuk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLihatCetakLabel.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormListDataBarang.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormListDataCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormListDataSupplier.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLogAktivitas.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormMain.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaBarangMasuk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormModePenjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormReturPenjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormSetting.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormTambahCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormTambahSupplier.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaChecking.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaRetur.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaReturToPDF.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaOrderSimple.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportDetailHutangCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanBestSeller.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanBestSellerTipeBarang.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanHutangCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanMostProfit.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanProfit.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaPenjualanSmall.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaOrderBarang.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitBulanan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitSales.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitProduk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitTahunan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiBarangMasukSupplier.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiBarangMasuk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiBarangMasukBulanan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiBarangMasukTahunan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiDetailPenjualanAndOrder.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanByProduk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanSales.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportListDataCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.Resources.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportKatalog.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLabel.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportListDataProduk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportListDataSupplier.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaPenjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaMasuk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanBulanan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanByCustomer.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanTahunan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.SplashScreen1.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.UC_BarangMasuk.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.UC_Penjualan.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.UserControl1.resources
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.vbproj.GenerateResource.Cache
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.exe.licenses
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.exe.manifest
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.application
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.exe
+C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.pdb

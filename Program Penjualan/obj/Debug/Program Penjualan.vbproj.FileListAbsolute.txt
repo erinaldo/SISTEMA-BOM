@@ -144,3 +144,150 @@ C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.exe
 C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.application
 C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.exe
 C:\BitBucket\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.pdb
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.exe.config
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.exe.manifest
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.application
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.exe
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Program Penjualan.pdb
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\MySql.Data.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\MySqlBackup.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.Reporting.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.ReportViewer.WinForms.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.UI.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\TelerikCommon.dll
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.xml
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.WinControls.UI.xml
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.Reporting.pdb
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.Reporting.xml
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+D:\Latihan\program_penjualan\Program Penjualan\bin\Debug\Telerik.ReportViewer.WinForms.xml
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.vbprojResolveAssemblyReference.cache
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.vbproj.ResolveComReference.cache
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaChecking.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaOrderSimple.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBarangMasukTahunan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanMostProfit.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanTahunan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaPenjualanSmall.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaRetur.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitTahunan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaReturPDF.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogCariBarangBrgMasuk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogCariBarangPenjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogLogin.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogPassword.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogPeringatanPenjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormBestSeller.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBarangMasukBulanan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBarangMasukSupplier.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBestSeller.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanBestSellerDetail.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanHutangCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanBulanan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanProduk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanSales.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanPenjualanCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanProfit.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanTransaksiBarangMasuk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLaporanTransaksiPenjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakListDataCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakListDataProduk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakListDataSupplier.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaOrder.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaPenjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitBulanan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitProduk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakProfitSales.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDetailCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDetailHarian.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakDetailHutangCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDetailsBestSeller.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDetailSupplier.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormDialogSeleksiDetailTransaksi.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormFilterBulanan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormFilterPeriode.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormGantiAdmin.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakKatalog.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakLabel.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormInputIDManual.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLaporanDetailHutangCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLaporanHutangCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLaporanProfit.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLapTransaksiPenjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLapTransaksiBarangMasuk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLihatCetakLabel.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormListDataBarang.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormListDataCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormListDataSupplier.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormLogAktivitas.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormMain.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormCetakNotaBarangMasuk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormModePenjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormReturPenjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormSetting.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormTambahCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.FormTambahSupplier.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaChecking.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaRetur.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaReturToPDF.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaOrderSimple.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportDetailHutangCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanBestSeller.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanBestSellerTipeBarang.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanHutangCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanMostProfit.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLaporanProfit.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaPenjualanSmall.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaOrderBarang.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitBulanan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitSales.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitProduk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportProfitTahunan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiBarangMasukSupplier.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiBarangMasuk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiBarangMasukBulanan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiBarangMasukTahunan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiDetailPenjualanAndOrder.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanByProduk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanSales.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportListDataCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.Resources.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportKatalog.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportLabel.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportListDataProduk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportListDataSupplier.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaPenjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportNotaMasuk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanBulanan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanByCustomer.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.ReportTransaksiPenjualanTahunan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.SplashScreen1.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.UC_BarangMasuk.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.UC_Penjualan.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program_Penjualan_V2.UserControl1.resources
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.vbproj.GenerateResource.Cache
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.exe.licenses
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.vbproj.CoreCompileInputs.cache
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.exe.manifest
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.application
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.exe
+D:\Latihan\program_penjualan\Program Penjualan\obj\Debug\Program Penjualan.pdb
